@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LaboratorioColegio</string>
+    <string name="nombre_colegio">Mis Pequeños Saltamontes</string>
+    <string name="titulo_registro">Registrar Estudiante</string>
+    <string name="notas">Notas</string>
+    <string name="estudiante_registrado">Estudiante Registrado</string>
+    <string name="resultados_periodo">Resultados del Periodo</string>
+    <string name="procesados">Estudiantes Procesados:   </string>
+    <string name="aprobados">Estudiantes Aprobados:   </string>
+    <string name="reprobados">Estudiantes Reprobados:   </string>
+    <string name="poRecuperar">Estudiantes con posibilidad de Recuperar :</string>
+    <string name="estadisticas">Estadisticas</string>
+    <string name="ti_instrucciones">Intrucciones del Sistema</string>
+    <string name="txtSistema">Esta aplicacion movil permite llevar un registro de sus estudiantes y el estado de estos en cuanto a las notas obtenidas.</string>
+    <string name="ti_registrar_estudiante">Registrar estudiante.</string>
+    <string name="txt_registrar_estudiante">Se debe dirigir a la opcion de "REGISTRAR ESTUDIANTE" que se encuentra en la pantalla principal de la aplicaion, se ingresan los datos solicitados y se presiona en "REGISTRAR", esto llevara a otra pantalla que mostrará los resultados de este estudiante en especifico.</string>
+    <string name="ti_visualizar_estadisticas">Visualizar estadisticas.</string>
+    <string name="txt_visualizar_estadisticas">Se debe dirigir a la opcion de "ESTADISTICAS" que se encuentra en la pantalla principal de la aplicaicon, esta pantalla presentara las estadisticas de los estudiantes procesados, estudiantes aprobados, estudiantes reprobados y estudiantes con posibilidad de recuperar.</string>
+
+</resources>
