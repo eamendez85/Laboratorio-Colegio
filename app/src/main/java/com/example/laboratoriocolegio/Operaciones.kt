@@ -19,7 +19,7 @@ class Operaciones : Serializable {
 
     fun calcularPromedio(est: Estudiante): Double {
 
-        var prom=(est.nota1+est.nota2+est.nota3+est.nota4+est.nota4+est.nota5)/5
+        var prom=(est.nota1+est.nota2+est.nota3+est.nota4+est.nota5)/5
 
         return prom
     }
